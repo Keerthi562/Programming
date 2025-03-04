@@ -5,7 +5,7 @@ public static void main(String[] args) {
 	Scanner s=new Scanner(System.in);
 	System.out.println("Enter the size of the array");
 	int size=s.nextInt();
-	System.out.println("Enter the elements of the array");
+	System.out.println("Enter the element of the array");
 	int []a=new int[size];
 	for(int k=0;k<a.length;k++){
 	a[k]=s.nextInt();
@@ -27,5 +27,6 @@ public static void main(String[] args) {
 	for (int num : a) {
 		System.out.println(num);
 	}
+	
 	}
 }
