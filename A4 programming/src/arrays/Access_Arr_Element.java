@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class Merge_Array {
+public class Access_Arr_Element {
 public static void main(String[] args) {
 	Scanner p=new Scanner(System.in);
 	
